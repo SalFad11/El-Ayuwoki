@@ -1,0 +1,49 @@
+table {
+	background-color: #B90000;
+	text-align: center;
+	border-width: 5px;
+	border-color: #710000;
+	border-style: solid;
+	border-collapse: separate;
+
+}
+
+
+h1 {
+	color: #FFB4DA;
+	font-size: 66px;
+	font-family: 'Amatic SC', sans-serif;
+}
+
+h2 {
+	color: #FF8DC3;
+	font-size: 33px;
+	font-weight: 500;
+	font-family: 'Amatic SC', sans-serif;
+font-family: 'Amatic SC', sans-serif;
+}
+body {
+	color: #FFFFFF;
+	background-color: #000000;
+}
+td {
+	background-color: #B90000;
+	text-align: center;
+	border-width: 3px;
+	border-color: #710000;
+	border-style: solid;
+	border-radius: 30px;
+	padding: 10px;
+	
+}
+iframe {
+	border-width: 5px;
+	border-color: #9A0303;
+	border-style: solid;
+	margin: 3px;
+		border-radius: 30px;
+}
+img  {border-width: 3px;
+	border-color: #710000;
+	border-style: solid;
+	border-radius: 30px; }
